@@ -1,0 +1,4 @@
+projects/*
+!projects/index.html
+!projects/IDEMPIERE
+.vscode
